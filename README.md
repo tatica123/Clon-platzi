@@ -1,2 +1,2 @@
-# Google-Clone
-Proyecto de google
+# Clone platzi 
+Proyecto mi prpia version de platzi
