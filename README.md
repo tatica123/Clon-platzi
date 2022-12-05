@@ -1,2 +1,2 @@
 # Clone platzi 
-Proyecto mi prpia version de platzi
+Proyecto mi propia version de platzi
