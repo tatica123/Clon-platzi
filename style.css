@@ -13,4 +13,16 @@ a{
     color: blue;
 
 }
+header{
+    display: flex;
+    width: 100%;
+    height: 60%;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 1px solid gray;
+}
+.logo-principal  img{
+    height: 50px;
+    width: 50%;
+}
 
