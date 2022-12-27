@@ -20,3 +20,6 @@ header{
     padding: 15px;
     border-bottom: 1px solid rgb(58, 57, 57) ;
 }
+.logo-principal img{
+    height: 50px;
+}
