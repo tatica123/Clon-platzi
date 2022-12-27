@@ -72,3 +72,40 @@ main .main-input{
     margin: 0 auto;
     margin-bottom: 35px;
 }
+main .main-input-container{
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid #98ca3f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+main .main-input input{
+    width: 450px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #233452;
+}
+main .main-input-container:hover{
+    box-shadow: 0 1px 6px 0 #20212447;
+    border-color: antiquewhite;
+}
+main .main-input .search-icon{
+    background-image: url("https://th.bing.com/th/id/OIP.4CyRU2t7MrKxePWeRxNAewHaHH?pid=ImgDet&rs=1");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+main .main-input .micro-icon{
+    background-image: url("https://cdn2.iconfinder.com/data/icons/social-productivity-line-art-2/128/speaker-128.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+}
