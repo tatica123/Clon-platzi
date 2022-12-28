@@ -96,7 +96,7 @@ main .main-input-container:hover{
     border-color: antiquewhite;
 }
 main .main-input .search-icon{
-    background-image: url("https://th.bing.com/th/id/OIP.4CyRU2t7MrKxePWeRxNAewHaHH?pid=ImgDet&rs=1");
+    background-image: url("./Lupa.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
